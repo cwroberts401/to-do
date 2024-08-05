@@ -4,7 +4,7 @@ Simple To-Do List Application that allows users to keep track of tasks. Created 
 
 View deployed version, that was deployed using GH pages click here.
 
-## Running Porject Locally
+## Running Project Locally
 
 Download or Fork Repo, then:
 
