@@ -2,7 +2,7 @@
 
 Simple To-Do List Application that allows users to keep track of tasks. Created using HTML, CSS, JavaScript, and Svelte.
 
-View deployed version, that was deployed using GH pages click here.
+View deployed version, that was deployed using GH pages click [here](https://cwroberts401.github.io/to-do/).
 
 ## Running Project Locally
 
@@ -17,6 +17,8 @@ npm run dev -- --open
 ```
 
 ## Usage
+
+![to-do dashboard](./Frame-1.png)
 
 - To create a new todo simpliy add your task and click the plus button.
 
