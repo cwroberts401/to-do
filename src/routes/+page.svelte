@@ -1,5 +1,4 @@
 <script>
-    export const prerender = true;
 	import { onMount, onDestroy, tick } from 'svelte';
 	import Edit from '~icons/mdi/edit';
 	import Delete from '~icons/mdi/delete-empty';
